@@ -45,4 +45,6 @@ Every time you make a commit you must also write a short __commit message__. Ide
 
 Every commit needs some sort of nickname, so you can identify it. Git does this automatically, assigning each commit what is called a SHA, a seemingly random string of 40 letters and numbers (it is not, in fact, random but is a SHA-1 checksum hash of the commit). Though you will be exposed to these, you don't have to handle them directly very often and, when you do, usually the first 7 characters suffice. The commit messages in Figure \@ref(fig:commit-diff-sha-tag)  are prefixed by such truncated SHAs. You can also designate certain snapshots as special with a __tag__, which is a name of your choosing. In a software project, it is typical to tag a release with its version, e.g., "v1.0.3". For a manuscript or analytical project, you might tag the version submitted to a journal or transmitted to external collaborators. Figure \@ref(fig:commit-diff-sha-tag) shows a tag, "draft-01", associated with the last commit.
 
-comment test
+
+
+Comment test! 
