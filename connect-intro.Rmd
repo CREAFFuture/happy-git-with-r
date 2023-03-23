@@ -1,6 +1,10 @@
 # (PART) Connect Git, GitHub, RStudio {-} 
 
 # Can you hear me now? {#connect-intro .unnumbered}
+# Em pots sentir ara? 
+
+
+Els següents capítols volten sobre 
 
 The next few chapters walk through some basic operations to confirm you have installed the necessary software and that the necessary connections are being made, between tools on your computer and between your computer and GitHub.
 
