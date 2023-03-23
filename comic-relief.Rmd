@@ -1,7 +1,7 @@
 # Comic relief {#comic-relief}
 # It's not comic, it's tragic
 
-hahah
+New line of text
 
 It's not you, it's Git!
 
