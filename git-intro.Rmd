@@ -6,7 +6,7 @@ Fins ara t'hem explicat sorprenentment poc sobre el Git! Això ve de sèrie.
 
 Pensem que utilitzar el Git en el curs de la teva feina es la manera més efectiva per a construir-te un mapa mental sobre Git. En tallers en viu, provem d'introduir les idees bàsiques més importants en el context de les nostres activitats guiades. Les persones autodidactes poden assolir el mateix a través de les guies amb "bateries incloses" vistes en seccions anteriors. :)
 
-Feliç git amb R
+
 
 We find that actual usage, in the course of your work, is the most effective way to build up a useful mental model for Git. In live workshops, we strive to introduce the most important basic ideas in the context of our guided activities. Self-learners can achieve the same by working through the "batteries included" guides earlier in the previous sections.
 
