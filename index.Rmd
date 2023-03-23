@@ -1,6 +1,6 @@
 --- 
-title: "Happy Git and GitHub for the useR"
-author: "Jenny Bryan, the STAT 545 TAs, Jim Hester"
+title: "Sad Git and GitHub for the useR"
+author: "Marc Riera and tribunal, the STAT 545 TAs, Jim Hester"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -8,7 +8,7 @@ biblio-style: apalike
 link-citations: yes
 github-repo: jennybc/happy-git-with-r
 description: "Using Git and GitHub with R, Rstudio, and R Markdown"
-twitter-handle: jennybryan
+twitter-handle: marc.riera and tribunal
 url: 'https\://happygitwithr.com/'
 cover-image: img/watch-me-diff-watch-me-rebase-smaller.png
 ---
