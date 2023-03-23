@@ -7,6 +7,7 @@ Fins ara t'hem explicat sorprenentment poc sobre el Git! Això ve de sèrie.
 Pensem que utilitzar el Git en el curs de la teva feina es la manera més efectiva per a construir-te un mapa mental sobre Git. En tallers en viu, provem d'introduir les idees bàsiques més importants en el context de les nostres activitats guiades. Les persones autodidactes poden assolir el mateix a través de les guies amb "bateries incloses" vistes en seccions anteriors. :)
 
 
+
 However, building on this early success, now is the perfect time to explicitly define some Git vocabulary. We also want to help you link Git concepts to data science tasks and projects.
 
 This part collects anything we've written about core Git concepts. It is a work in progress and is conceived as a complement to the many excellent [external resources for Git](#resources), which we have no desire to re-invent.
