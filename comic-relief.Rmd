@@ -1,4 +1,7 @@
 # Comic relief {#comic-relief}
+# It's not comic, it's tragic
+
+New line of text
 
 It's not you, it's Git!
 
